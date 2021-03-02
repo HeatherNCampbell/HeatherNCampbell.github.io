@@ -273,7 +273,7 @@ input, select, textarea {
 
 	h1 {
 		word-spacing: 5 px;
-		position: sticky;
+		position: -webkit-sticky;
 		top: 0;
 		z-index: 10;
 		font-size: 2.5em;
